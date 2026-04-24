@@ -46,8 +46,7 @@ public class NaincyRauniyar {
 ### 🚖 Uber Clone — Ride Booking System
 *Microservices-Based Backend · Jul 2025 – Oct 2025*
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NaincyRauniyar&repo=UberClone&theme=tokyonight&hide_border=true)](https://github.com/NaincyRauniyar)
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NaincyRauniyar&repo=Uber-CLone&theme=tokyonight&hide_border=true)](https://github.com/NaincyRauniyar/Uber-CLone)
 > Built a scalable ride-booking backend using **Spring Boot microservices** with JWT-based authentication.
 > Reduced inter-service latency by **40%** using Kafka async communication.
 > Improved driver matching by **40%** with Redis GeoSpatial queries.
@@ -60,7 +59,7 @@ public class NaincyRauniyar {
 ### 🛡️ SpringShield — Auth & Authorization System
 *Dec 2025 – Jan 2026*
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NaincyRauniyar&repo=SpringShield&theme=tokyonight&hide_border=true)](https://github.com/NaincyRauniyar)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NaincyRauniyar&repo=Spring-Shield&theme=tokyonight&hide_border=true)](https://github.com/NaincyRauniyar/Spring-Shield)
 
 > Robust Spring Security system with **JWT authentication**, securing the application by **70%**.
 > Role-based access control improving access management by **10x**.
@@ -73,8 +72,7 @@ public class NaincyRauniyar {
 ### 🌫️ AeroVision — AI-Powered AQI Prediction
 *Jan 2026 – Feb 2026*
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NaincyRauniyar&repo=AeroVision&theme=tokyonight&hide_border=true)](https://github.com/NaincyRauniyar)
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NaincyRauniyar&repo=aerovision&theme=tokyonight&hide_border=true)](https://github.com/NaincyRauniyar/aerovision)
 > End-to-end ML pipeline predicting AQI from PM2.5, NO2, CO pollutants.
 > Random Forest + XGBoost achieving **R² ≈ 0.78** deployed via Flask.
 > Interactive dashboards for **26 Indian cities** using Chart.js.
@@ -162,11 +160,10 @@ public class NaincyRauniyar {
 
 <div align="center">
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/NANCYR?theme=dark&font=Karma&ext=heatmap)](https://leetcode.com/u/NANCYR/)
-
+[![LeetCode Stats](https://leetcard.jacoblin.cool/NANCY_R?theme=dark&font=Karma&ext=heatmap)](https://leetcode.com/u/NANCY_R/)
 | Stat | Value |
 |------|-------|
-| 🔥 Problems Solved | 700+ |
+| 🔥 Problems Solved | 600+ |
 | 💡 Contests | Active |
 | 🏅 Hackathons | Adobe, Capgemini, Google Big Code, BNY Code Divaa |
 
