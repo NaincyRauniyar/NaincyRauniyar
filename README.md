@@ -154,15 +154,8 @@ public class NaincyRauniyar {
 
 </div>
 
----
 
-## 🧩 LeetCode & DSA
 
-<div align="center">
-
-[![LeetCode Stats](https://leetcard.jacoblin.cool/NANCY_R?theme=dark&font=Karma&ext=heatmap)](https://leetcode.com/u/NANCY_R/)
-| Stat | Value |
-|------|-------|
 | 🔥 Problems Solved | 600+ |
 | 💡 Contests | Active |
 | 🏅 Hackathons | Adobe, Capgemini, Google Big Code, BNY Code Divaa |
