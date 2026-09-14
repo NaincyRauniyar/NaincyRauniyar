@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Backend+Engineer+%F0%9F%9A%80;Spring+Boot+%2B+Microservices+Developer;Kafka+%7C+Redis+%7C+JWT+Auth+Systems;700%2B+LeetCode+Problems+Solved+%F0%9F%94%A5;KIIT+University+%7C+CGPA+9.16+%E2%AD%90)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Backend+Engineer+%F0%9F%9A%80;Spring+Boot+%2B+Microservices+Developer;Kafka+%7C+Redis+%7C+JWT+Auth+Systems;KIIT+University+%7C+CGPA+9.21+%E2%AD%90)](https://git.io/typing-svg)
 
 </div>
 
@@ -128,8 +128,6 @@ public class NaincyRauniyar {
 
 ## 🏆 Achievements
 
-
-| 🔥 Problems Solved | 600+ |
 | 💡 Contests | Active |
 | 🏅 Hackathons | Adobe, Capgemini, Google Big Code, BNY Code Divaa |
 
